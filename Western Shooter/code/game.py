@@ -1,6 +1,6 @@
 # library imports
-import pygame
 import sys
+import pygame
 from pytmx.util_pygame import load_pygame
 
 # local imports
