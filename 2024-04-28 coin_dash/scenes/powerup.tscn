@@ -1,6 +1,6 @@
 [gd_scene load_steps=14 format=3 uid="uid://dtp6dxlslr7mu"]
 
-[ext_resource type="Script" path="res://powerup.gd" id="1_8t6vi"]
+[ext_resource type="Script" path="res://scripts/powerup.gd" id="1_8t6vi"]
 [ext_resource type="Texture2D" uid="uid://bsuj1yiy10d0a" path="res://assets/pow/pow-frame-1.png" id="2_8ohfa"]
 [ext_resource type="Texture2D" uid="uid://dmlp27dd6m6xi" path="res://assets/pow/pow-frame-2.png" id="3_ny5xl"]
 [ext_resource type="Texture2D" uid="uid://b70ypuw2afbh" path="res://assets/pow/pow-frame-3.png" id="4_n0of1"]
